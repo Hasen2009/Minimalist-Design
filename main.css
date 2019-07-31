@@ -333,6 +333,9 @@ h6 {
 }
 
 @media (max-width: 768px) {
+    .hero-content {
+        padding-top: 100px;
+    }
     .vertical {
         display: none;
     }
